@@ -96,7 +96,7 @@ function App() {
         <footer className="text-gray-400 bg-gray-900 body-font">
             <div className="container px-5 py-8 mx-auto flex items-center sm:flex-row flex-col">
                 <a className="flex title-font font-medium items-center md:justify-start justify-center text-white">
-                    <img className="logo-img" src="src\assets\logo.png" width={40} height={40} alt="logo" align="CENTER" />
+                    <img className="logo-img" src={"/logo.png"} width={40} height={40} alt="logo" align="CENTER" />
                     <span className="ml-3 text-xl">FreeChat</span>
                 </a>
                 <p
